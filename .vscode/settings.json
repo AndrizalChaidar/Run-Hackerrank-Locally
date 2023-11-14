@@ -1,0 +1,3 @@
+{
+  "rust-analyzer.linkedProjects": ["hackerrank_exercise/rust/Cargo.toml"]
+}
